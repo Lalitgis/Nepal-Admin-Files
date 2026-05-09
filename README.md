@@ -14,13 +14,19 @@ The dataset includes shapefiles for mapping, visualization, and geospatial analy
 
 The data can be opened using:
 
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
+- QGIS
+- ArcMap/Pro
+- Python and R
+- Other GIS softwares
 
 ## Coordinate Reference System (CRS)
 
 Please check the `.prj` file for projection information and EPSG details.
 
-## Repository Structure
+## Data ownership
+
+The data is provided by the survey department of Nepal, and the owner of this repo doesn't guarantee the authenticity and accuracy of the data.
+
+## Clone Repository
 
 git clone https://github.com/Lalitgis/Nepal_Admin_Files.git
